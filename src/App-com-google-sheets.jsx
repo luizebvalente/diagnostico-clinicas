@@ -26,7 +26,7 @@ function App() {
 
   // CONFIGURAÇÃO GOOGLE SHEETS
   // Substitua pela URL do seu Google Apps Script
-  const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/SEU_SCRIPT_ID/exec'
+  const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/11CHjLXKUWhX9ocrXEvVsHv9GVKYmtY0DAiOqqJd797v09rYQvrp24ne2/exec'
 
   const diagnosticSections = [
     {

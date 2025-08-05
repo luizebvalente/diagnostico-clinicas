@@ -191,7 +191,7 @@ function App() {
           "Estabelecer metas de faturamento realistas",
           "Treinar equipe em atendimento básico"
         ],
-        investimento: "R$ 2.500 - R$ 5.000",
+        investimento: "A Definir",
         roi: "Redução de 30% nos custos operacionais"
       })
       
@@ -204,7 +204,7 @@ function App() {
           "Implementar estratégias de retenção",
           "Estabelecer indicadores de performance"
         ],
-        investimento: "R$ 3.000 - R$ 7.000",
+        investimento: "A Definir",
         roi: "Aumento de 25% no faturamento"
       })
     } else if (score <= 15) {
@@ -217,7 +217,7 @@ function App() {
           "Padronizar processos de atendimento",
           "Criar sistema de gestão de equipe"
         ],
-        investimento: "R$ 4.000 - R$ 8.000",
+        investimento: "A Definir",
         roi: "Aumento de 35% na margem de lucro"
       })
       
@@ -230,7 +230,7 @@ function App() {
           "Expandir serviços ou horários de atendimento",
           "Desenvolver parcerias estratégicas"
         ],
-        investimento: "R$ 5.000 - R$ 12.000",
+        investimento: "A Definir",
         roi: "Aumento de 50% no número de pacientes"
       })
     } else {
@@ -243,7 +243,7 @@ function App() {
           "Desenvolver novos serviços/especialidades",
           "Estruturar modelo de franquia ou expansão"
         ],
-        investimento: "R$ 8.000 - R$ 15.000",
+        investimento: "A Definir",
         roi: "Aumento de 70% no faturamento"
       })
     }
@@ -262,7 +262,7 @@ function App() {
                 "Definir precificação estratégica",
                 "Estabelecer reservas de emergência"
               ],
-              investimento: "R$ 2.000 - R$ 4.000",
+              investimento: "A Definir",
               roi: "Redução de 40% nos custos desnecessários"
             })
             break
@@ -276,7 +276,7 @@ function App() {
                 "Implementar Google Ads e SEO",
                 "Desenvolver programa de indicações"
               ],
-              investimento: "R$ 3.000 - R$ 6.000",
+              investimento: "A Definir",
               roi: "Aumento de 60% em novos pacientes"
             })
             break
@@ -290,7 +290,7 @@ function App() {
                 "Criar jornada do paciente otimizada",
                 "Desenvolver programa de fidelização"
               ],
-              investimento: "R$ 2.500 - R$ 5.000",
+              investimento: "A Definir",
               roi: "Aumento de 45% na retenção de pacientes"
             })
             break
